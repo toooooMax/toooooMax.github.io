@@ -26,9 +26,6 @@ dash:
     - url: https://twitter.com/
       icon: twitter-square
       color: cyan
-    - url: https://tooooomax.github.io/
-      icon: itch-io
-      color: red
     - url: https://github.com/toooooMax
       icon: github-square
       color: purple
